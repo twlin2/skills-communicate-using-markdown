@@ -4,3 +4,4 @@
 #### fourth level
 ##### fifth level
 ###### six level
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
